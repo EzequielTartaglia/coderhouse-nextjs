@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Projecto de NextJS de Coderhouse a modo de referencia, desarrollado por Ezequiel M. Tartaglia
 
 ## Getting Started
 
